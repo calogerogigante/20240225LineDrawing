@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace _20240225LineDrawing
 {
+    // j'ai créé une simple class pour représenter une Droite.
+    // pour la simplicité, j'ai juste tout rendu public, ici.
+    // pas de getter et setter...
     public class Droite
     {
         public int x1,y1, x2, y2;
